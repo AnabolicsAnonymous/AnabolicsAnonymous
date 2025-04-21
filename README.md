@@ -1,8 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3100&pause=500&color=EDF742&center=true&width=435&lines=Anabolics+Anonymous;Professional+Amateur)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3100&pause=500&color=EDF742&center=true&width=435&lines=Anabolics+Anonymous;Professional+Amateur" alt="Typing SVG">
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabolicsanonymous&show_icons=true&theme=dark&count_private=true" height="220px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnabolicsAnonymous&count_private=true&hide=stars&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github"  alt="Dananjaya's github stats" height="220px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabolicsanonymous&show_icons=true&theme=dark&count_private=true" height="220px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnabolicsAnonymous&count_private=true&hide=stars&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" height="220px" />
+</p>
 
+<br/>
 
-------
-![Visitor Count](https://profile-counter.glitch.me/{AnabolicsAnonymous}/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{AnabolicsAnonymous}/count.svg" alt="Visitor Count" />
+</p>
