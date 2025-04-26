@@ -7,10 +7,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabolicsanonymous&show_icons=true&theme=dark&count_private=true" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api?username=anabolicsanonymous&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="200px" />
+  <img src="https://monkey.honey-pot.dev/generate-svg/schizobol/arch?pb=true" width="750" />
 </p>
-
-<br/>
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/{AnabolicsAnonymous}/count.svg" alt="Visitor Count" />
 </p>
